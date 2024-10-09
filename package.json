@@ -1,0 +1,10 @@
+{
+    "name": "vivaldia",
+    "version": "0.1.0",
+    "type": "module",
+    "exports": {
+        "default": "./lib/index.cjs",
+        "types": "./lib/index.d.ts"
+    },
+    "files": ["lib", "dist", "package.json"]
+}
